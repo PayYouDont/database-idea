@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.payyoudont.databaseidea.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.payyoudont.databaseidea.MyBundle
 
 class MyApplicationService {
 
